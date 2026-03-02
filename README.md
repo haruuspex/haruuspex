@@ -1,16 +1,69 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://mothcpu.net/dect/story"><img align="left" src="https://drive.google.com/uc?id=1FSLolb-wSFbEtRLzRYbMHNDM9UZzLl1f" title="DREAMS END COME TRUE" alt="gabriel" width=650px/>
 
-<!--
-**haruuspex/haruuspex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+     <br>
+        <br>
+      <table>
+          <tr>
+            <td>
+    <details>
+<summary>$\color{#92d168}{\textsf{About me}}$</summary>
+
+$\color{#bdcd82}{\textsf{Hello! I am Matthew or Gabriel... or even Artemy!}}$<br>$\color{#bdcd82}{\textsf{I am 16, born on September 1st! I like to draw, play an ungodly amount of roblox, and snooze... ya snooze ya lose!}}$
+
+  </details>
+         </td>
+      </tr>
+   </table>
+  
+  <table>
+    <tr>
+      <td>
+<details>
+<summary>$\color{#7baa79}{\textsf{Interests}}$</summary>
+
+$\color{#bdcd82}{\textsf{My interests are, and not limited to...}}$<br>$\color{#bdcd82}{\textsf{ULTRAKILL (Obviously.), DST, Guts and Blackpowder, Pathologic series, FAITH, and Madness Combat!}}$
+
+
+</details>
+ </td>
+</tr>
+  </table>
+
+  
+  <table>
+    <tr>
+      <td>
+<details>
+<summary>$\color{#4c6e5a}{\textsf{Kins}}$</summary>
+
+$\color{#bdcd82}{\textsf{List of Kins from highest to lowest}}$<br>$\color{#bdcd82}{\textsf{Gabriel (ULTRAKILL), Mirage (ULTRAKILL), Artemy Burakh (Pathologic 2), John Ward (FAITH), Wikilius (GnB), Hank j. Wimbleton (MADCOM)}}$
+
+
+</details>
+ </td>
+</tr>
+  </table>
+</div>
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/1229490/ULTRAKILL/ "><img align="right" src="https://drive.google.com/uc?id=1tZ6dn0r2ovEs-AoT71-4X43QTFXf3dKV" title="BUY ULTRAKILL. NOW!!!" alt="v1 and gab" width=650px/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a href="https://7tries.straw.page/"><img align="left" src="https://drive.google.com/uc?id=1X4LbD27krFuDWzKqitjsREP8_C-4_RJR" title="Strawpage" width=150px/></a>
+<br>
+<br>
+<a href="https://haruuspex.atabook.org/"><img align="left" src="https://drive.google.com/uc?id=1wgLchvHm2lKBCEdP9ywcCY3LenDbLuaz" title="Atabook" width=150px/></a>
+<br>
+<br>
+<a href="https://www.roblox.com/users/1515403031/profile"><img align="left" src="https://drive.google.com/uc?id=15WwbkkAX36h3mwM4Px7cXtnRGl07VR-H" title="Roblox" width=150px/></a>
